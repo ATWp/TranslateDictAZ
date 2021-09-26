@@ -42,7 +42,7 @@ Good luck learning new languages !!
 	* encoding/json
 	* io/ioutil
 		
-## Install ##
+## Install Windows ##
 
 Не забудьте добавить программу в Windows - "Переменные среды", чтобы можно было вызывать ее из любого положения.
 	
