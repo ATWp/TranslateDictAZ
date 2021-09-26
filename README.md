@@ -8,7 +8,7 @@
 	typing the name in the console CapsLock or Shift + A (CapsLock) + z and contradicts the vim methodology, the first letter was converted
 	to lowercase: az
 	
-	##Русский
+	## Русский
 	
 	Данная программа "az" - это консольное приложение по переводу слов с любого языка на любой другой язык.
 	
@@ -19,7 +19,7 @@
 	
 	Удачи в изучении новых языков!!
 	
-	##English
+	## English
 	
 	This program "az" is a console application for translating words from any language to any other language.
 
@@ -30,7 +30,7 @@
 
 	Good luck learning new languages !!
 	
-	##Stack(Программный стек)
+	## Stack(Программный стек)
 	
 	1. <b>Golang</b> with libs
 		a. os
@@ -38,7 +38,7 @@
 		c. encoding/json
 		d. io/ioutil
 		
-	##Install
+	## Install
 	Не забудьте добавить программу в Windows - "Переменные среды", чтобы можно было вызывать ее из любого положения.
 	
 	1. Откройте проводник "win+e"
