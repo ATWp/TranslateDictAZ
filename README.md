@@ -4,12 +4,12 @@
 набирать название в консоли CapsLock or Shift + A (CapsLock) + z  и протеворечит методологии vim, первая буква была преобразована
 в нижний регист: az
 	
-The program is called "az" for a reason. The basic idea comes from enumerating characters in ASCII encoding with A-> z. Because of
-typing the name in the console CapsLock or Shift + A (CapsLock) + z and contradicts the vim methodology, the first letter was converted
-to lowercase: az
+The program is called "az" for a reason. The basic idea comes from enumerating characters in ASCII encoding with 
+A-> z. Because of typing the name in the console CapsLock or Shift + A (CapsLock) + z and contradicts the vim methodology, 
+the first letter was converted to lowercase: az
 	
 ## Русский ##
--------------------------- 
+
 	
 Данная программа "az" - это консольное приложение по переводу слов с любого языка на любой другой язык.
 	
@@ -21,7 +21,7 @@ to lowercase: az
 Удачи в изучении новых языков!!
 	
 ## English ##
--------------------------- 
+
 	
 This program "az" is a console application for translating words from any language to any other language.
 
@@ -33,16 +33,16 @@ have to add it yourself.
 Good luck learning new languages !!
 	
 ## Stack(Программный стек) ##
--------------------------- 
+
 	
 1. **Golang** with libs
-	a. os
-	b. fmt
-	c. encoding/json
-	d. io/ioutil
+	* os
+	* fmt
+	* encoding/json
+	* io/ioutil
 		
 ## Install ##
--------------------------- 
+
 Не забудьте добавить программу в Windows - "Переменные среды", чтобы можно было вызывать ее из любого положения.
 	
 1. Откройте проводник "win+e"
